@@ -87,7 +87,7 @@ Diseñar, desarrollar e implementar una plataforma web asistida por Inteligencia
 | Semana | Hito / Entregable | Estado |
 |---|---|---|
 | **Semana 1** | Configuración de Docker, GitHub, tableros Kanban, documento base docente y diagramas iniciales | En curso |
-| **Semana 2** | Modelado BPMN, Casos de Uso y pruebas comparativas de motores IA (RAG vs Prompting vs Ollama) | Pendiente |
+| **Semana 2** | Modelado BPMN, Casos de Uso y pruebas comparativas de motores IA (RAG vs Prompting vs Ollama) | En curso |
 | **Semana 3** | Desarrollo del Backend (FastAPI + PDF Parser + Motor de Auditoría) | Pendiente |
 | **Semana 4** | Desarrollo del Frontend (Dashboard con semáforo de riesgo y visualizador de cláusulas) | Pendiente |
 | **Semana 5** | Pruebas integradas con contratos reales/sintéticos, ajustes de precisión y preparación de sustentación | Pendiente |
